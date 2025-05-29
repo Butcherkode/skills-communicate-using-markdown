@@ -9,3 +9,7 @@
 ###### I have completed step 1 of communicate using markdown
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
